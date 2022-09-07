@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-<!--
-**harithareddy630/harithareddy630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java Programming
-- 🌱 I’m currently learning Webapps
-- 👯 I’m looking to collaborate on Cloud Computing
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently pursuing my Masters in Computer Science in North West Missouri State University.
+- 👯 I’m looking to collaborate on Cloud Computing in future after my study.
+- :sunrise_over_mountains:Love to watch sunrise over mountains.
 - 💬 Ask me about :cupid:
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: +1 6605415546
