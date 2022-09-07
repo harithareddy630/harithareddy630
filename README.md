@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing my Masters in Computer Science in North West Missouri State University.
 - 👯 I’m looking to collaborate on Cloud Computing in future after my study.
