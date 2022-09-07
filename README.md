@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Cloud Computing in future after my study.
 - :sunrise_over_mountains:Love to watch sunrise over mountains.
 - 💬 Ask me about :cupid:
-- 📫 How to reach me: +1 6605415546
+- :telephone_receiver: +1 6605415546
